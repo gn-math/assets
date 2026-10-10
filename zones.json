@@ -25,7 +25,7 @@
     "id": 2,
     "name": "OvO 2",
     "cover": "{COVER_URL}/2.png",
-    "url": "{HTML_URL}/2-fix2.html",
+    "url": "{HTML_URL}/2-fix3.html",
     "author": "Dedra Games",
     "authorLink": "https://dedragames.com"
   },
@@ -33,7 +33,7 @@
     "id": 3,
     "name": "OvO 3 Dimensions",
     "cover": "{COVER_URL}/3.png",
-    "url": "{HTML_URL}/3-fix2.html",
+    "url": "{HTML_URL}/3-fix3.html",
     "author": "Dedra Games",
     "authorLink": "https://dedragames.com"
   },
@@ -41,7 +41,7 @@
     "id": 4,
     "name": "Gladihoppers",
     "cover": "{COVER_URL}/4.png",
-    "url": "{HTML_URL}/4-fix2.html",
+    "url": "{HTML_URL}/4-fix3.html",
     "author": "Dreamon Studios",
     "authorLink": "https://dreamonstudios.itch.io/gladihoppers"
   },
@@ -57,7 +57,7 @@
     "id": 6,
     "name": "Block Blast",
     "cover": "{COVER_URL}/6.png",
-    "url": "{HTML_URL}/6-fix2.html",
+    "url": "{HTML_URL}/6-fix3.html",
     "author": "reunbozdo",
     "authorLink": "https://reunbozdo.github.io"
   },
@@ -281,7 +281,7 @@
     "id": 36,
     "name": "Monster Tracks",
     "cover": "{COVER_URL}/36.png",
-    "url": "{HTML_URL}/36-fix2.html",
+    "url": "{HTML_URL}/36-fix3.html",
     "author": "Fancade",
     "authorLink": "https://fancade.com/"
   },
@@ -289,7 +289,7 @@
     "id": 37,
     "name": "Gobble",
     "cover": "{COVER_URL}/37.png",
-    "url": "{HTML_URL}/37-fix2.html",
+    "url": "{HTML_URL}/37-fix3.html",
     "author": "Fancade",
     "authorLink": "https://fancade.com/"
   },
@@ -478,7 +478,7 @@
     "id": 59,
     "name": "A Dance of Fire and Ice",
     "cover": "{COVER_URL}/59.png",
-    "url": "{HTML_URL}/59-fix.html",
+    "url": "{HTML_URL}/59-fix2.html",
     "author": "fizzd",
     "authorLink": "https://fizzd.itch.io/"
   },
@@ -527,7 +527,7 @@
     "id": 64,
     "name": "Backrooms",
     "cover": "{COVER_URL}/64.png",
-    "url": "{HTML_URL}/64-fix3.html",
+    "url": "{HTML_URL}/64-fix4.html",
     "author": "Esyverse",
     "authorLink": "https://esyverse.itch.io/"
   },
@@ -559,7 +559,7 @@
     "id": 68,
     "name": "Big NEON Tower Tiny Square",
     "cover": "{COVER_URL}/68.png",
-    "url": "{HTML_URL}/68-fix.html",
+    "url": "{HTML_URL}/68-fix2.html",
     "author": "EvilObjective",
     "authorLink": "https://evilobjective.itch.io"
   },
@@ -575,7 +575,7 @@
     "id": 70,
     "name": "BitLife",
     "cover": "{COVER_URL}/70.png",
-    "url": "{HTML_URL}/70-fix.html",
+    "url": "{HTML_URL}/70-fix2.html",
     "author": "Candywriter",
     "authorLink": "https://candywriter.com"
   },
@@ -654,7 +654,7 @@
     "id": 78,
     "name": "Burrito Bison: Launcha Libre",
     "cover": "{COVER_URL}/78.png",
-    "url": "{HTML_URL}/78-fix.html",
+    "url": "{HTML_URL}/78-fix2.html",
     "author": "Juicy Beast",
     "authorLink": "https://juicybeast.com",
     "special": [
@@ -782,7 +782,7 @@
     "id": 91,
     "name": "Gunspin",
     "cover": "{COVER_URL}/91.png",
-    "url": "{HTML_URL}/91-fix.html",
+    "url": "{HTML_URL}/91-fix2.html",
     "author": "minijuegos.com",
     "authorLink": "https://www.minijuegos.com/",
     "special": [
@@ -809,7 +809,7 @@
     "id": 94,
     "name": "Journey Downhill",
     "cover": "{COVER_URL}/94.png",
-    "url": "{HTML_URL}/94-fix.html",
+    "url": "{HTML_URL}/94-fix2.html",
     "author": "Megagon Industries",
     "authorLink": "https://megagonindustries.com/"
   },
@@ -836,7 +836,7 @@
     "id": 97,
     "name": "Moto X3M 2",
     "cover": "{COVER_URL}/97.png",
-    "url": "{HTML_URL}/97-fix.html",
+    "url": "{HTML_URL}/97-fix2.html",
     "author": "MadPuffers",
     "authorLink": "https://www.madpuffers.com"
   },
@@ -844,7 +844,7 @@
     "id": 98,
     "name": "Moto X3M 3",
     "cover": "{COVER_URL}/98.png",
-    "url": "{HTML_URL}/98-fix.html",
+    "url": "{HTML_URL}/98-fix2.html",
     "author": "MadPuffers",
     "authorLink": "https://www.madpuffers.com"
   },
@@ -939,7 +939,7 @@
     "id": 108,
     "name": "Tiny Fishing",
     "cover": "{COVER_URL}/108.png",
-    "url": "{HTML_URL}/108-fix.html",
+    "url": "{HTML_URL}/108-fix2.html",
     "author": "Winter Studio",
     "authorLink": "https://winterstudio.com/"
   },
@@ -966,7 +966,7 @@
     "id": 111,
     "name": "Tube Jumpers",
     "cover": "{COVER_URL}/111.png",
-    "url": "{HTML_URL}/111-fix.html",
+    "url": "{HTML_URL}/111-fix2.html",
     "author": "New Eich Games",
     "authorLink": "https://www.neweichgames.com/"
   },
@@ -994,7 +994,7 @@
     "id": 114,
     "name": "2048",
     "cover": "{COVER_URL}/114.png",
-    "url": "{HTML_URL}/114-f.html",
+    "url": "{HTML_URL}/114-fix2.html",
     "author": "Gabriele Cirulli",
     "authorLink": "https://github.com/gabrielecirulli"
   },
@@ -1034,7 +1034,7 @@
     "id": 119,
     "name": "Snow Rider 3D",
     "cover": "{COVER_URL}/119.png",
-    "url": "{HTML_URL}/119-fix.html",
+    "url": "{HTML_URL}/119-fix2.html",
     "author": "gamebiz",
     "authorLink": "https://gamebiz.com/"
   },
@@ -1082,7 +1082,7 @@
     "id": 125,
     "name": "Granny 2",
     "cover": "{COVER_URL}/125.png",
-    "url": "{HTML_URL}/125-fix.html",
+    "url": "{HTML_URL}/125-fix2.html",
     "author": "DVloper",
     "authorLink": "https://play.google.com/store/apps/developer?id=DVloper&hl=en_US"
   },
@@ -1277,7 +1277,7 @@
     "id": 165,
     "name": "Cheese Chompers 3D",
     "cover": "{COVER_URL}/165.png",
-    "url": "{HTML_URL}/165-fix.html",
+    "url": "{HTML_URL}/165-fix2.html",
     "author": "NavaNoid",
     "authorLink": "https://cheesechompers3d.itch.io/cheese-chompers-3d"
   },
@@ -1321,7 +1321,7 @@
     "id": 170,
     "name": "Big Tower Tiny Square 2",
     "cover": "{COVER_URL}/170.png",
-    "url": "{HTML_URL}/170-fix.html",
+    "url": "{HTML_URL}/170-fix2.html",
     "author": "EO Interactive",
     "authorLink": "https://apps.apple.com/my/developer/eo-interactive-ltd/id457003279",
     "special": [
@@ -1348,7 +1348,7 @@
     "id": 173,
     "name": "Drift Hunters",
     "cover": "{COVER_URL}/173.png",
-    "url": "{HTML_URL}/173-fix.html",
+    "url": "{HTML_URL}/173-fix2.html",
     "author": "Illia Kaminetskyi",
     "authorLink": "https://ilyakaminetsky.itch.io/drift-hunters"
   },
@@ -2020,7 +2020,7 @@
     "id": 242,
     "name": "Red Ball 4",
     "cover": "{COVER_URL}/242.png",
-    "url": "{HTML_URL}/242-fix.html",
+    "url": "{HTML_URL}/242-fix2.html",
     "author": "Yohoho Games",
     "authorLink": "https://yohoho.games",
     "special": [
@@ -2257,7 +2257,7 @@
     "id": 266,
     "name": "Speed Stars",
     "cover": "{COVER_URL}/266.png",
-    "url": "{HTML_URL}/266-a.html",
+    "url": "{HTML_URL}/266-fix2.html",
     "author": "Luke Doukakis",
     "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/",
     "special": [
@@ -2536,7 +2536,7 @@
     "id": 298,
     "name": "Minecraft Alpha 1.2.6",
     "cover": "{COVER_URL}/298.png",
-    "url": "{HTML_URL}/298.html",
+    "url": "{HTML_URL}/298-fix.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com"
   },
@@ -2544,7 +2544,7 @@
     "id": 299,
     "name": "Minecraft Beta 1.3",
     "cover": "{COVER_URL}/299.png",
-    "url": "{HTML_URL}/299.html",
+    "url": "{HTML_URL}/299-fix.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com"
   },
@@ -2560,7 +2560,7 @@
     "id": 301,
     "name": "Minecraft Indev",
     "cover": "{COVER_URL}/301.png",
-    "url": "{HTML_URL}/301.html",
+    "url": "{HTML_URL}/301-fix.html",
     "author": "lax1dude",
     "authorLink": "https://eaglercraft.com"
   },
@@ -2576,7 +2576,7 @@
     "id": 303,
     "name": "Territorial.io",
     "cover": "{COVER_URL}/303.png",
-    "url": "{HTML_URL}/303-fix.html",
+    "url": "{HTML_URL}/303-fix2.html",
     "author": "TTCreator",
     "authorLink": "https://play.google.com/store/apps/dev?id=8652009334379030762"
   },
@@ -2595,7 +2595,7 @@
     "id": 305,
     "name": "Tanuki Sunset",
     "cover": "{COVER_URL}/305.png",
-    "url": "{HTML_URL}/305-fix.html",
+    "url": "{HTML_URL}/305-fix2.html",
     "author": "Rewind Games",
     "authorLink": "https://store.steampowered.com/app/1251460/Tanuki_Sunset/"
   },
@@ -2874,7 +2874,7 @@
     "id": 339,
     "name": "House of Hazards",
     "cover": "{COVER_URL}/339.png",
-    "url": "{HTML_URL}/339-fix.html",
+    "url": "{HTML_URL}/339-fix2.html",
     "author": "New Eich Games",
     "authorLink": "https://www.neweichgames.com"
   },
@@ -3386,7 +3386,7 @@
     "id": 400,
     "name": "Money Rush",
     "cover": "{COVER_URL}/400.png",
-    "url": "{HTML_URL}/400-fix2.html",
+    "url": "{HTML_URL}/400-fix3.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games"
   },
@@ -3619,7 +3619,7 @@
     "id": 430,
     "name": "10 Minutes Till Dawn",
     "cover": "{COVER_URL}/430.png",
-    "url": "{HTML_URL}/430-fix.html",
+    "url": "{HTML_URL}/430-fix2.html",
     "author": "flanne",
     "authorLink": "https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/"
   },
@@ -3627,7 +3627,7 @@
     "id": 431,
     "name": "99 Balls",
     "cover": "{COVER_URL}/431.png",
-    "url": "{HTML_URL}/431-fix.html",
+    "url": "{HTML_URL}/431-fix2.html",
     "author": "Diamond Games",
     "authorLink": "https://www.crazygames.com/game/99-balls"
   },
@@ -3820,7 +3820,7 @@
     "id": 453,
     "name": "Station Saturn",
     "cover": "{COVER_URL}/453.png",
-    "url": "{HTML_URL}/453-fix.html",
+    "url": "{HTML_URL}/453-fix2.html",
     "author": "Maksim Chmutov",
     "authorLink": "https://booleet.itch.io/station-saturn"
   },
@@ -3905,7 +3905,7 @@
     "id": 461,
     "name": "Slither.io",
     "cover": "{COVER_URL}/461.png",
-    "url": "{HTML_URL}/461.html",
+    "url": "{HTML_URL}/461-fix.html",
     "author": "slither.io",
     "authorLink": "http://slither.com/io"
   },
@@ -4332,7 +4332,7 @@
     "id": 508,
     "name": "Super Mario Bros",
     "cover": "{COVER_URL}/508.png",
-    "url": "{HTML_URL}/508-fix.html",
+    "url": "{HTML_URL}/508-fix2.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
     "special": [
@@ -4437,7 +4437,7 @@
     "id": 520,
     "name": "Dan The Man",
     "cover": "{COVER_URL}/520.png",
-    "url": "{HTML_URL}/520-fix3.html",
+    "url": "{HTML_URL}/520-fix4.html",
     "author": "Halfbrick Studios",
     "authorLink": "https://play.google.com/store/apps/details?id=com.halfbrick.dantheman"
   },
@@ -4706,7 +4706,7 @@
     "id": 552,
     "name": "Aviamasters",
     "cover": "{COVER_URL}/552.png",
-    "url": "{HTML_URL}/552-fix.html",
+    "url": "{HTML_URL}/552-fix2.html",
     "author": "BGaming",
     "authorLink": "https://bgaming.com/games/aviamasters" 
   },
@@ -4714,7 +4714,7 @@
     "id": 553,
     "name": "Rolling Sky",
     "cover": "{COVER_URL}/553.png",
-    "url": "{HTML_URL}/553-fix.html",
+    "url": "{HTML_URL}/553-fix2.html",
     "author": "Dream Playz",
     "authorLink": "https://play.google.com/store/apps/details?id=com.dreamplayz.rollingball&hl=en_US" 
   },
@@ -5012,7 +5012,7 @@
     "id": 589,
     "name": "Sonic CD",
     "cover": "{COVER_URL}/589.png",
-    "url": "{HTML_URL}/589-fix2.html",
+    "url": "{HTML_URL}/589-fix3.html",
     "author": "SEGA",
     "authorLink": "https://sega.com",
     "special": [
@@ -5411,7 +5411,7 @@
     "id": 627,
     "name": "Tag",
     "cover": "{COVER_URL}/627.png",
-    "url": "{HTML_URL}/627-fix2.html",
+    "url": "{HTML_URL}/627-fix3.html",
     "author": "WeLoPlay",
     "authorLink": "https://www.weloplay.com/"
   },
@@ -5503,7 +5503,7 @@
     "id": 637,
     "name": "BFDIA 5b",
     "cover": "{COVER_URL}/637.png",
-    "url": "{HTML_URL}/637-fix2.html",
+    "url": "{HTML_URL}/637-fix3.html",
     "author": "Cary Huang",
     "authorLink": "https://x.com/realCarykh",
     "special": [
@@ -6366,7 +6366,7 @@
     "id": 722,
     "name": "Fused 240",
     "cover": "{COVER_URL}/722.png",
-    "url": "{HTML_URL}/722-fix.html",
+    "url": "{HTML_URL}/722-fix2.html",
     "author": "Mike Klubnika, shxyder",
     "authorLink": "https://mikeklubnika.itch.io/fused-240",
     "special": [
@@ -6443,7 +6443,7 @@
     "id": 730,
     "name": "Cell Machine",
     "cover": "{COVER_URL}/730.png",
-    "url": "{HTML_URL}/730-fix.html",
+    "url": "{HTML_URL}/730-fix2.html",
     "author": "Sam Hogan",
     "authorLink": "https://samhogan.itch.io/cell-machine"
   },
@@ -6528,7 +6528,7 @@
     "id": 738,
     "name": "Dumb Ways to Die",
     "cover": "{COVER_URL}/738.png",
-    "url": "{HTML_URL}/738-fix2.html",
+    "url": "{HTML_URL}/738-fix3.html",
     "author": "PlaySide Studios Ltd, Metro Trains",
     "authorLink": "https://store.steampowered.com/app/3079280/Saihate_Station/"
   },
@@ -6536,7 +6536,7 @@
     "id": 739,
     "name": "Soccer Random",
     "cover": "{COVER_URL}/739.png",
-    "url": "{HTML_URL}/739-fix.html",
+    "url": "{HTML_URL}/739-fix2.html",
     "author": "RHM Interactive OÜ",
     "authorLink": "https://play.google.com/store/apps/details?id=com.twoplayergames.soccerrandom"
   },
@@ -6746,7 +6746,7 @@
     "id": 760,
     "name": "Overburden",
     "cover": "{COVER_URL}/760.png",
-    "url": "{HTML_URL}/760-fix.html",
+    "url": "{HTML_URL}/760-fix2.html",
     "author": "notsospecialgames, shxyder",
     "authorLink": "https://notsospecialgames.itch.io/overburden",
     "special": [
@@ -6822,7 +6822,7 @@
     "id": 768,
     "name": "Stickman Kombat 2D",
     "cover": "{COVER_URL}/768.png",
-    "url": "{HTML_URL}/768-fix.html",
+    "url": "{HTML_URL}/768-fix2.html",
     "author": "GamePush",
     "authorLink": "https://www.crazygames.com/game/stickman-kombat-2d"
   },
@@ -6880,7 +6880,7 @@
     "id": 774,
     "name": "Mountain Bike Racer",
     "cover": "{COVER_URL}/774.png",
-    "url": "{HTML_URL}/774-fix.html",
+    "url": "{HTML_URL}/774-fix2.html",
     "author": "stefano1234",
     "authorLink": "https://www.construct.net/en/free-online-games/mountain-bike-runner-20988/play"
   },
@@ -6999,7 +6999,7 @@
     "id": 786,
     "name": "Volley Random",
     "cover": "{COVER_URL}/786.png",
-    "url": "{HTML_URL}/786-fix.html",
+    "url": "{HTML_URL}/786-fix2.html",
     "author": "RHM Interactive",
     "authorLink": "https://www.crazygames.com/game/volley-random"
   },
@@ -7134,7 +7134,7 @@
     "id": 799,
     "name": "Hungry Lamu 2",
     "cover": "{COVER_URL}/799.png",
-    "url": "{HTML_URL}/799-fix2.html", 
+    "url": "{HTML_URL}/799-fix3.html", 
     "author": "kulurc / kulu",
     "authorLink": "https://kulurc.itch.io/hungry-lamu-2"
   },
@@ -7150,7 +7150,7 @@
     "id": 801,
     "name": "Trees Hate You",
     "cover": "{COVER_URL}/801.png",
-    "url": "{HTML_URL}/801-fix2.html", 
+    "url": "{HTML_URL}/801-fix3.html", 
     "author": "tykenn",
     "authorLink": "https://tykenn.itch.io/trees-hate-you"
   },
