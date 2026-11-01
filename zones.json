@@ -7992,10 +7992,9 @@
     "special": [
       "port"
     ]
-  }
   },
   {
-    "id": 877,
+    "id": 878,
     "name": "Bear Haven",
     "cover": "{COVER_URL}/878.png",
     "url": "{HTML_URL}/878.html",
