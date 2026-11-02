@@ -8,8 +8,8 @@
   {
     "id": 0,
     "name": "Bowmasters",
-    "cover": "{COVER_URL}/0.png",
-    "url": "{HTML_URL}/0-fix2.html",
+    "cover": "{COVER_URL}/878.png",
+    "url": "{HTML_URL}/878.html",
     "author": "Azur Games, Playgendary",
     "authorLink": "https://azurgames.com"
   },
@@ -7989,6 +7989,28 @@
     "url": "{HTML_URL}/877.html",
     "author": "MEWSTURBO",
     "authorLink": "https://store.steampowered.com/app/4605210/Pet_the_Cat/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 878,
+    "name": "Bear Haven",
+    "cover": "{COVER_URL}/878.png",
+    "url": "{HTML_URL}/878.html",
+    "author": "Crazy Games",
+    "authorLink": "https://www.crazygames.com/game/bear-haven",
+    "special": [
+      "port"
+    ]
+    },
+  {
+    "id": 878,
+    "name": "How to fish",
+    "cover": "{COVER_URL}/879.png",
+    "url": "{HTML_URL}/879.html",
+    "author": "Yandex Games",
+    "authorLink": "https://didnt find the url sorry",
     "special": [
       "port"
     ]
