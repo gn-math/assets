@@ -8014,5 +8014,38 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 880,
+    "name": "Castle Crashers",
+    "cover": "{COVER_URL}/880.png",
+    "url": "{HTML_URL}/880.html",
+    "author": "The Behemoth",
+    "authorLink": "https://store.steampowered.com/app/204360/Castle_Crashers/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 881,
+    "name": "Feed and Grow Fish",
+    "cover": "{COVER_URL}/881.png",
+    "url": "{HTML_URL}/881.html",
+    "author": "Old B1ood",
+    "authorLink": "https://store.steampowered.com/app/429050/Feed_and_Grow_Fish/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 882,
+    "name": "Minecraft: Story Mode",
+    "cover": "{COVER_URL}/882.png",
+    "url": "{HTML_URL}/882.html",
+    "author": "Telltale Games",
+    "authorLink": "https://store.steampowered.com/app/376870/Minecraft_Story_Mode_A_Telltale_Games_Series/",
+    "special": [
+      "port"
+    ]
   }
 ]
