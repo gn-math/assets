@@ -7997,9 +7997,20 @@
     "id": 878,
     "name": "Garten of Banban 1",
     "cover": "{COVER_URL}/878.png",
-    "url": "{HTML_URL}/878.html",
+    "url": "{HTML_URL}/878-f.html",
     "author": "Euphoric Brothers",
     "authorLink": "https://store.steampowered.com/app/2232840/Garten_of_Banban/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 879,
+    "name": "The Joy of Creation: Story Mode",
+    "cover": "{COVER_URL}/879.png",
+    "url": "{HTML_URL}/879.html",
+    "author": "Nikson",
+    "authorLink": "https://gamejolt.com/games/tjocsm/139218",
     "special": [
       "port"
     ]
